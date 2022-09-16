@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.principal{
+    background-image: url(amazon-prime-video-catalogo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+ 
+}
+nav{
+    text-align: right;
+    padding: 20px 10px 0 0;
+}
+a{
+color: white;
+text-decoration: none;
+padding: 15px;
+border: 3px solid rgb(12, 133, 231); 
+
+
+}
+.filmes{
+    height: 180vh;
+    background-color: black;
+    
+}
+.titulofilmes{
+    color: white;
+
+}
+img{
+    height:300px; 
+    width: 350px;
+}
+.descricao{
+    color: white;
+    text-align: center;
+}
+.card_filmes{
+    display: inline-block;
+    width: 18%;
+    vertical-align: top;
+    margin: 0% 2%;
+    padding: 20px 10px;
+}
